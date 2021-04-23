@@ -15,3 +15,4 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/Khanmanan/automod-bot)](ht
 [How to host repl/glitch bot](https://youtu.be/O24Q02LpFl4)
 
 
+  
