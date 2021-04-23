@@ -13,3 +13,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/Khanmanan/automod-bot)](ht
 [How to make welcome bot discord.js ](https://youtu.be/wNJfGON1qQo)
 |
 [How to host repl/glitch bot](https://youtu.be/O24Q02LpFl4)
+
+
