@@ -1,7 +1,7 @@
-require('dotenv').config();
+
 const discord = require("discord.js");
 const db = require('quick.db');
- 
+ const { token } = require ('./config.json')
 const client = new discord.Client({
     disableEveryone: true
 });
@@ -47,5 +47,5 @@ client.on("guildMemberAdd", async member => {
 });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(token);
 
