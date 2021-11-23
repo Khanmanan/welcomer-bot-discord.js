@@ -1,4 +1,4 @@
-### simple welcomer bot made using discord.js and canvas-senpai
+### simple welcome bot made using discord.js v12  and canvas-senpai
 
 [discord](https://dsc.gg/cwkhan) | [YouTube](https://youtube.com/cwkhan)
 
