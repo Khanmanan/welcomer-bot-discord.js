@@ -1,7 +1,7 @@
 
 const discord = require("discord.js");
 const db = require('quick.db');
- const { Client, Intents } = require('discord.js');
+ const { Client } = require('discord.js');
 const { token } = require('./config.json');
 
 const { CanvasSenpai } = require("canvas-senpai")
