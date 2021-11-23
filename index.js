@@ -1,10 +1,9 @@
 
 const discord = require("discord.js");
 const db = require('quick.db');
- const { token } = require ('./config.json')
-const client = new discord.Client({
-    disableEveryone: true
-});
+ const { Client, Intents } = require('discord.js');
+const { token } = require('./config.json');
+
 const { CanvasSenpai } = require("canvas-senpai")
 const canva = new CanvasSenpai();
 
